@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1582459735421.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E2004114",
+    "lastKnownWriteTime" : 1582411190,
+    "last_content_update" : 1582459735421,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "debe9e8c098c4898a1bab81fdd1c3b99",
+        "name" : "my_groceries",
+        "title" : "my_groceries"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}
